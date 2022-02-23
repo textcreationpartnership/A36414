@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of errors ioynd vvith Gods word by the Lady Eleanor.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36414</idno>
+            <idno type="STC">Wing D1999</idno>
+            <idno type="STC">ESTC R37754</idno>
+            <idno type="EEBO-CITATION">17009763</idno>
+            <idno type="OCLC">ocm 17009763</idno>
+            <idno type="VID">105771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105771)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1614:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of errors ioynd vvith Gods word by the Lady Eleanor.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: print show-through, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apocalyptic literature.</term>
+               <term>Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105771:1"/>
+            <pb facs="tcp:105771:1" rendition="simple:additions"/>
+            <p>OF ERRORS IOYND VVITH GODS WORD.</p>
+            <p>By the Lady <hi>ELEANOR:</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Make ſtraight the Path of our God.</hi> 
+               </p>
+               <bibl>Iſaiah 41.</bibl>
+            </q>
+            <p>Printed in the yeare, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105771:2"/>
+            <pb facs="tcp:105771:2"/>
+            <head>For the moſt Honorable the high Court of PARLIAMENT aſſembled.</head>
+            <head type="sub">From the <hi>Lady Eleanor.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Blind then fore<g ref="char:EOLhyphen"/>told of their leading the <hi>Blind:</hi> So verily never more palpable darkeneſſe: (of that kind) then now: Even ſuch as the very <hi>Legend and Alchoran for a bold fable hardly guilty of the like:</hi> As this witneſſe for one publiſhed <hi>ac<g ref="char:EOLhyphen"/>cording to</hi> order intituled: <hi>A divine pro<g ref="char:EOLhyphen"/>pheſie of King James a Relation of the two witneſſes</hi> their comming down from
+<pb n="4" facs="tcp:105771:3"/>Heaven, and then fighting with <hi>Anti<g ref="char:EOLhyphen"/>chriſt, &amp;c.</hi>
+            </p>
+            <p>A thing ſo contradictory and Re<g ref="char:EOLhyphen"/>pugnant to the truth: As <hi>light and darkneſſe not more oppoſite or differing:</hi> they being ſo farre from any ſuch <hi>decli<g ref="char:EOLhyphen"/>nation:</hi> That they aſcended up to Hea<g ref="char:EOLhyphen"/>ven in the ſight of their enemies, <hi>as witneſſe come up hether, the reſurrections voice,</hi> being perſecuted by that Beaſt, viz. <hi>ſuch an authority put downe afterward Rev.</hi> 12. <hi>as even the very beaſt himſelfe</hi> aſ<g ref="char:EOLhyphen"/>ſcended out of the bottomleſſe pitt.</p>
+            <p>VVhich witneſſes ſignifying in truth <hi>Dan.</hi> &amp; <hi>John,</hi> two Bookes of the Prophets <hi>to be interpreted,</hi> the <hi>Reſur<g ref="char:EOLhyphen"/>rection time</hi> revealing it, &amp; <hi>though accom<g ref="char:EOLhyphen"/>panied with ſuch ſignes and tokens at that time:</hi> Yet as in former Prophets dayes likewiſe perſecuted and oppoſed.</p>
+            <pb n="5" facs="tcp:105771:3"/>
+            <p>And every title of this being ſo pre<g ref="char:EOLhyphen"/>cious that Heaven &amp; Earth cannot paſſe away till all come to paſſe, <hi>ſhewed</hi> &amp; <hi>manifeſted to the world, ſhal ſhew of ſome other places as barbarouſly corrupted alſo: Kings</hi> 2. For whereas the Holy Ghoſt ſaith, <hi>there ſhall be none left to burie of Jezabels body.</hi> They have made it, there ſhall be no body left to burie her, and <hi>Daniel</hi> the 11. Cap. thus: VVhere ſhewed at the end of yeares, <hi>The Kings daughter of the South pointing at Auſtria, ſhall be delivered</hi> namely of a child, is by our Doctors thus tranſlated: (But ſhe ſhall be delivered up to death) where<g ref="char:EOLhyphen"/>of even the true meaning is. <hi>To ſhew at the time of the end ſuch a remarkable thing of one ſo long time childleſſe,</hi> Neverthe<g ref="char:EOLhyphen"/>leſſe to be delivered or brought a bed of a child: to wit the marriage of <hi>France</hi> with <hi>Spaine,</hi> &amp;c.</p>
+            <pb n="6" facs="tcp:105771:4"/>
+            <p>And ſo for another miſtake a word of no ſmall difference namely the word <hi>Sacrifice</hi> added in ſo many places; whereas the Holy Ghoſt renders it thus.</p>
+            <p>
+               <hi>And an Hoſt was given againſt the dai<g ref="char:EOLhyphen"/>ly: (Dan:) our daily bread given in the Lords Supper,</hi> as much to ſay, by them tranſlated as it were the hoſt offer'd up, or Tranſubſtantiation, and ſuch like <hi>linſie wolſie woven together by them, becauſe they receive not the truth,</hi> is juſt with God to leave them to the ſpirit of Error. And though there is a certain place faultie: 2 <hi>Chron.</hi> 22. ſhewing <hi>Ahaziab</hi> to be two yeares elder then his father <hi>Jehoram</hi> yet being recon<g ref="char:EOLhyphen"/>ciled elſe where in holy writ, as in 2 <hi>Kings</hi> Cap. 8. verſe 26. is not to be
+<pb n="7" facs="tcp:105771:4"/>placed amongſt the aforeſaid errors: As in truth <hi>Ahaziah</hi> 22. yeares old when he began to reigne. And not 42 though ſo accounted there. 2 <hi>Chron.</hi> 22. Cap. 2. verſ.</p>
+            <p>And ſo much for a ſcourg of ſmall cords made, or ſome <hi>Correction</hi> as <hi>here</hi> requiſit: where <hi>Gods word which paſses not away,</hi> is chang'd into ſtuffe, paſ<g ref="char:EOLhyphen"/>ſing for current.</p>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
